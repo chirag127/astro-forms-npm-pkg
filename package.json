@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Form helpers — react-hook-form + Zod resolvers + shadcn-style Form wrappers + honeypot + Web3Forms client.",
   "type": "module",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "author": "Chirag Singhal <chirag@oriz.in>",
   "homepage": "https://github.com/chirag127/astro-forms-npm-pkg#readme",
   "repository": { "type": "git", "url": "git+https://github.com/chirag127/astro-forms-npm-pkg.git" },

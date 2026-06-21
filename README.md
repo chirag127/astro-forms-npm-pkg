@@ -2,11 +2,10 @@
 
 [![npm](https://img.shields.io/npm/v/@chirag127/astro-forms.svg)](https://www.npmjs.com/package/@chirag127/astro-forms)
 [![CI](https://github.com/chirag127/astro-forms-npm-pkg/actions/workflows/ci.yml/badge.svg)](https://github.com/chirag127/astro-forms-npm-pkg/actions/workflows/ci.yml)
-[![license: source-available](https://img.shields.io/badge/license-source--available-red.svg)](./LICENSE)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 Form helpers — react-hook-form + Zod resolvers + shadcn-style Form wrappers + honeypot + Web3Forms client.
 
-> **License notice.** Source-available **only for transparency**. No license is granted to use, fork, modify, or redistribute. See [`LICENSE`](./LICENSE).
 
 Part of the [`chirag127/oriz`](https://github.com/chirag127/oriz) family.
 
